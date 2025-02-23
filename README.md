@@ -23,3 +23,4 @@ Best practices
 | Action                      | Windows | MacOS  |
 | --------------------------- | ------- | ------ |
 | Duplicate Line or Selection | Alt+D   | Ctrl+D |
+| Delete Line                 | Alt+X   | Ctrl+X |
