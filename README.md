@@ -11,8 +11,8 @@
 * Refer to this [doc](https://github.com/dmimat/intellij-mnemonic-keymap) to check the shortcuts
 * Depend on each person, continue to customize shortcuts from the base Mnemonic Keymap.
   See below section for my personal recommended customizations.
-* Best practices: try to not changing the remove default shortcuts of the Mnemonic Keymap plugin.
-  So that less things to worry about when updating the plugin or working on a new machine.
+* Best practices: try to not changing or removing default shortcuts of the Mnemonic Keymap plugin.
+  So that less things to worry about when updating the plugin (ex. new shortcuts) or working on a new machine.
 
 # Recommended customizations
 
