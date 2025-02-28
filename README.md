@@ -17,12 +17,17 @@
 Best practices
 * Adding new shortcuts instead of changing or removing default shortcuts of the Mnemonic Keymap plugin.
   So that less things to worry about when updating the plugin (ex. new shortcuts) or working on a new machine.
-* For adding new shortcuts, avoid using the main modifier key of Mnemonic Keymap (Ctrl on Windows and Command/Cmd on MacOS).
-  Usually, I use Alt on Windows and Ctrl on MacOS for my new personal shortcuts.
+* 1st modifier key: Ctrl on Windows and Command/Cmd on MacOS
+* 2nd modifier key
+  * Shift: capitalization and symbols
+  * Alt:
+    * Mnemonic menu items, ex. Alt+F for **F**ile menu item (if **Enable mnemonics in menu** is checked)
+    * Mnemonic UI buttons, ex. in commit window, `Alt+I` for comm**i**t button.
+    * Enter a character by numeric code, ex. `Alt+0153` for the ™ symbol.
 
 | Action                      | Windows        | MacOS           |
 | --------------------------- | -------------- | --------------- |
 | Duplicate Line or Selection | Alt+D          | Ctrl+D          |
-| Delete Line                 | Alt+X          | Ctrl+X          |
+| Delete Line                 | Shift+Delete   | Shift+Delete    |
 | Extend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |
 | Shrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |
