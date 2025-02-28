@@ -21,7 +21,7 @@ Best practices
 * 2nd modifier key
   * Shift: capitalization and symbols
   * Alt:
-    * Mnemonic menu items, ex. Alt+F for **F**ile menu item (if **Enable mnemonics in menu** is checked)
+    * Mnemonic menu items, ex. `Alt+F` for **F**ile menu item (if **Enable mnemonics in menu** is checked)
     * Mnemonic UI buttons, ex. in commit window, `Alt+I` for comm**i**t button.
     * Enter a character by numeric code, ex. `Alt+0153` for the ™ symbol.
 
