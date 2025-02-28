@@ -17,12 +17,12 @@
 Best practices
 * Adding new shortcuts instead of changing or removing default shortcuts of the Mnemonic Keymap plugin.
   So that less things to worry about when updating the plugin (ex. new shortcuts) or working on a new machine.
-* For adding new shortcuts, avoid using the main modifier key of Mnemonic Keymap (Ctrl on Windows and Command on MacOS).
+* For adding new shortcuts, avoid using the main modifier key of Mnemonic Keymap (Ctrl on Windows and Command/Cmd on MacOS).
   Usually, I use Alt on Windows and Ctrl on MacOS for my new personal shortcuts.
 
 | Action                      | Windows        | MacOS           |
 | --------------------------- | -------------- | --------------- |
 | Duplicate Line or Selection | Alt+D          | Ctrl+D          |
 | Delete Line                 | Alt+X          | Ctrl+X          |
-| Extend Selection            | Ctrl+Shift+E   | Command+Shift+E |
-| Shrink Selection            | Ctrl+Shift+S   | Command+Shift+S |
+| Extend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |
+| Shrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |
