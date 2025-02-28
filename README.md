@@ -25,9 +25,9 @@ Best practices
     * Mnemonic UI buttons, ex. in commit window, `Alt+I` for comm**i**t button.
     * Enter a character by numeric code, ex. `Alt+0153` for the ™ symbol.
 
-| Action                      | Windows        | MacOS           |
-| --------------------------- | -------------- | --------------- |
-| Duplicate Line or Selection | Alt+D          | Ctrl+D          |
-| Delete Line                 | Shift+Delete   | Shift+Delete    |
-| Extend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |
-| Shrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |
+| Action                          | Windows        | MacOS           | Notes                                                             |
+| ------------------------------- | -------------- | --------------- | ----------------------------------------------------------------- |
+| **D**uplicate Line or Selection | Alt+D          | Ctrl+D          |                                                                   |
+| **D**elete Line                 | Shift+Delete   | Shift+Delete    | Remove this shortcut for Cut action then assign it to Delete Line |
+| **E**xtend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |                                                                   |
+| **S**hrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |                                                                   |
