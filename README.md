@@ -20,7 +20,9 @@ Best practices
 * For adding new shortcuts, avoid using the main modifier key of Mnemonic Keymap (Ctrl on Windows and Command on MacOS).
   Usually, I use Alt on Windows and Ctrl on MacOS for my new personal shortcuts.
 
-| Action                      | Windows | MacOS  |
-| --------------------------- | ------- | ------ |
-| Duplicate Line or Selection | Alt+D   | Ctrl+D |
-| Delete Line                 | Alt+X   | Ctrl+X |
+| Action                      | Windows        | MacOS           |
+| --------------------------- | -------------- | --------------- |
+| Duplicate Line or Selection | Alt+D          | Ctrl+D          |
+| Delete Line                 | Alt+X          | Ctrl+X          |
+| Extend Selection            | Ctrl+Shift+E   | Command+Shift+E |
+| Shrink Selection            | Ctrl+Shift+S   | Command+Shift+S |
