@@ -25,9 +25,10 @@ Best practices
     * Mnemonic UI buttons, ex. in commit window, `Alt+I` for comm**i**t button.
     * Enter a character by numeric code, ex. `Alt+0153` for the ™ symbol.
 
-| Action                          | Windows        | MacOS           | Notes                                                             |
-| ------------------------------- | -------------- | --------------- | ----------------------------------------------------------------- |
-| **D**uplicate Line or Selection | Alt+D          | Ctrl+D          |                                                                   |
-| **D**elete Line                 | Shift+Delete   | Shift+Delete    | Remove this shortcut for Cut action then assign it to Delete Line |
-| **E**xtend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |                                                                   |
-| **S**hrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |                                                                   |
+| Action                          | Windows        | MacOS           | Notes                                                                |
+| ------------------------------- | -------------- | --------------- | -------------------------------------------------------------------- |
+| Paste as Plain Text             | Ctrl+Shift+V   | Cmd+Shift+V     | Need to use another shortcut for Paste Cell action in Jupyter plugin |
+| Duplicate Line or Selection     | Ctrl+B,D       | Cmd+B,D         | Same as `Ctrl/Cmd+L,D`, but now only need the left hand              |
+| **D**elete Line                 | Shift+Delete   | Shift+Delete    | Need to remove this shortcut for Cut action                          |
+| **E**xtend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |                                                                      |
+| **S**hrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |                                                                      |
