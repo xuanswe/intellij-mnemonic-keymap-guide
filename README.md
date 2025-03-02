@@ -4,7 +4,7 @@
 * In `Files > Settings... > Keymap`
   * Choose Mnemonic Keymap on Windows or Mnemonic Keymap (macOS) on MacOS
   * Duplicate the keymap and rename it to something like `Mnemonic Keymap Custom` or `Mnemonic Keymap (macOS) Custom`
-* Optionally, on MacOS, open `Apple logo > System Settings... > Keyboard > Keyboard Shortcuts... > Modifier Keys`
+* Optionally but recommended, on MacOS, open `Apple logo > System Settings... > Keyboard > Keyboard Shortcuts... > Modifier Keys`
   and change the Control key to be Command key and vice versa.
   For people who work on both Windows and MacOS, this is very convenient.
   For example, the physical keyboard location of Command+C on MacOS is now the same as Ctrl+C on Windows.
