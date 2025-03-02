@@ -8,7 +8,7 @@
   and change the Control key to be Command key and vice versa.
   For people who work on both Windows and MacOS, this is very convenient.
   For example, the physical keyboard location of Command+C on MacOS is now the same as Ctrl+C on Windows.
-* Refer to this [doc](https://github.com/dmimat/intellij-mnemonic-keymap) to check the shortcuts
+* Refer to this [doc](https://github.com/dmimat/intellij-mnemonic-keymap) to check the official shortcuts
 * Depend on each person, continue to customize shortcuts from the base Mnemonic Keymap.
   See below section for my personal recommended customizations.
 
