@@ -30,7 +30,7 @@ Best practices
 
 | Action                          | Windows        | MacOS           | Notes                                                                |
 | ------------------------------- | -------------- | --------------- | -------------------------------------------------------------------- |
-| Duplicate Line or Selection     | Ctrl+B,D       | Cmd+B,D         | Same as `Ctrl/Cmd+L,D`, but now only need the left hand              |
+| **D**uplicate Line or Selection | Ctrl+B,D       | Cmd+B,D         | Same as `Ctrl/Cmd+L,D`, which stands for Duplicate Line. `Ctrl+B,D` stands for Duplicate Block/Selection and only need the left hand.             |
 | **D**elete Line                 | Shift+Delete   | Shift+Delete    | Need to remove this shortcut for Cut action                          |
 | Paste as Plain Text             | Ctrl+Shift+V   | Cmd+Shift+V     | Need to use another shortcut for Paste Cell action in Jupyter plugin |
 | **E**xtend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |                                                                      |
