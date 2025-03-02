@@ -30,8 +30,8 @@ Best practices
 
 | Action                          | Windows        | MacOS           | Notes                                                                |
 | ------------------------------- | -------------- | --------------- | -------------------------------------------------------------------- |
-| Paste as Plain Text             | Ctrl+Shift+V   | Cmd+Shift+V     | Need to use another shortcut for Paste Cell action in Jupyter plugin |
 | Duplicate Line or Selection     | Ctrl+B,D       | Cmd+B,D         | Same as `Ctrl/Cmd+L,D`, but now only need the left hand              |
 | **D**elete Line                 | Shift+Delete   | Shift+Delete    | Need to remove this shortcut for Cut action                          |
+| Paste as Plain Text             | Ctrl+Shift+V   | Cmd+Shift+V     | Need to use another shortcut for Paste Cell action in Jupyter plugin |
 | **E**xtend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |                                                                      |
 | **S**hrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |                                                                      |
