@@ -25,8 +25,10 @@ Best practices
     * Mnemonic UI buttons, ex. in commit window, `Alt+I` for comm**i**t button.
     * Enter a character by numeric code, ex. `Alt+0153` for the ™ symbol.
   * On MacOS, Alt is replaced with Option key.
-    But if using just Option key might replace the selection with a special char.
+    For example, `Alt+Enter` should be `Option+Enter` on MacOS.
+    But if using just Option key, it mights replace the selection with a special char.
     In this case, use `Ctrl+Option` to replace Alt.
+    For example, in commit window, use `Ctrl+Option+I` to replace `Alt+I`.
 * Each double-chord shortcut should always have 2 versions.
   For example, when having `Ctrl+L,D`, we should have `Ctrl+L,Ctrl+D` too.
   `+` join keys for the same chord (pressing together). `,` separates chords.
