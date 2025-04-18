@@ -40,3 +40,4 @@ Best practices
 | Paste as Plain Text             | Ctrl+Shift+V   | Cmd+Shift+V     | Need to use another shortcut for Paste Cell action in Jupyter plugin |
 | **E**xtend Selection            | Ctrl+Shift+E   | Cmd+Shift+E     |                                                                      |
 | **S**hrink Selection            | Ctrl+Shift+S   | Cmd+Shift+S     |                                                                      |
+| **A**I **A**ssistant            | Ctrl+W,A       | Cmd+W,A         |                                                                      |
